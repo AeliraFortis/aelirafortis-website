@@ -25,6 +25,9 @@
 	"engines": {
 		"node": ">=22"
 	},
+	"overrides": {
+		"undici": "7.30.1"
+	},
 	"private": true,
 	"scripts": {
 		"astro": "astro",
